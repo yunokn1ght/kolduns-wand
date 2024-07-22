@@ -1,0 +1,8 @@
+name: KoldunsWand
+version: '${project.version}'
+main: org.yuno.koldunswand.KoldunsWand
+api-version: '1.21'
+commands:
+  wand:
+     description: Wand command
+     usage: /wand <player> <amount>
